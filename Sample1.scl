@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?scroll version="1.0"?>
+
+<SCROLL>
+  <HEAD>
+    <title>Sample1</title>
+  </HEAD>
+  <CD>
+  </CD>
+  <DATA>
+    <text>
+    <p>Hello Magic Scroll!</p>
+    </text>
+  </DATA>
+</SCROLL>
